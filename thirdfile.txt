@@ -7,3 +7,5 @@ changed from remote repo
 changed again from remote repo
 
 changed from local repo
+
+changed from remote repo
