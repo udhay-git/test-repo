@@ -6,4 +6,4 @@ changed from remote repo
 
 changed again from remote repo
 
-changed from local repo
+changed from local repo // adding changes from local machine
