@@ -1,14 +1,14 @@
 third file created
-
+FROM LOCAL REPO
 adding this line for new commit
 
 changed from remote repo
-
+FROM LOCAL REPO
 changed again from remote repo
 
 changed from local repo // adding changes from local machine
-
+FROM LOCAL REPO
 changed from local repo
 
 changed from remote repo
-
+FROM LOCAL REPO
