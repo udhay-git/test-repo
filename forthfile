@@ -4,3 +4,8 @@ Forth file is created
 
 
 I have checkout 867bf4c2374c1c38b8bbac066fc665165df03878 commit, therefore I dont see latest changes, now I am adding new changes
+
+this is added for the commit in alfa1 branch
+
+this is again added for the second commit in alfa1 branch
+git push origin HEAD:afla1 // command to push code in a specific branch after checkout it's latest commit id
